@@ -1,0 +1,27 @@
+/* *****  html  ***** */
+* {
+	margin:							0;
+	padding:						0;
+	color:							#fff;
+	background-color:		#000;
+}
+
+/* *****  body  ***** */
+body {
+	width:							100%;
+}
+
+/* ***** header ***** */
+header {
+	width:							100%;
+}
+
+/* *****  main  ***** */
+main {
+	width: auto;
+}
+
+/* ***** footer ***** */
+footer {
+	width: auto;
+}
