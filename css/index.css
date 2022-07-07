@@ -7,14 +7,22 @@
 /* *****  body  ***** */
 body {
 	width:							100%;
-	color:							#fff;
-	background-color:		#000;
+	color:							white;
+	background-color:		black;
 }
 
 /* ***** header ***** */
 header {
-	width:							100%;
-	background-color:		#00f;
+	top:								0;
+	right:							0;
+	width:							200px;
+	min-height:					100%;
+	position:						fixed;
+	background-color:		steelblue;
+}
+header li {
+	padding: 10px;
+	list-style:none;
 }
 
 /* *****  main  ***** */
